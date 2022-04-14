@@ -14,16 +14,16 @@ O câncer de mama é o câncer mais comum entre as mulheres no mundo. É respons
 Aqui estão alguns dos passos necessários para o plano de ação:
 
 1.   Entendimento do Problema  
-  *   Aprendizado Supervisionado por Regressão ou Classificação
+* Aprendizado Supervisionado por Regressão ou Classificação
 2.   Coleta dos Dados
-2.   Preparação dos Dados
+3.   Preparação dos Dados
   *   Verificar dados ausentes
   *   Verificar o tipo das colunas
   *   Deletar colunas
   *   Verificando dados duplicados
   *   Normalização da base de dados
   *   Outliers
-3.   Análise Exploratória de Dados
+4.   Análise Exploratória de Dados
 5.   Modelagem e Avaliação de Modelos 
 6.   Interpretação do Modelo
-6.   Salvar o modelo
+7.   Salvar o modelo
