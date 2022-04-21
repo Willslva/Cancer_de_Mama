@@ -26,4 +26,4 @@ Aqui estão alguns dos passos necessários para o plano de ação:
 4.   Análise Exploratória de Dados
 5.   Modelagem e Avaliação de Modelos 
 6.   Interpretação do Modelo
-7.   Salvar o modelo
+7.   Modelo em produção (Deploy)
